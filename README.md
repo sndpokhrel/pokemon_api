@@ -13,7 +13,7 @@ This is a FastAPI project for serving a list of Pokémon with filtering capabili
 
 3. Run the application:
    uvicorn app.main:app --reload
-   Run index.html
+   and run index.html
 
 Package Used
 fastapi
